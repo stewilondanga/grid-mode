@@ -98,7 +98,7 @@ main {
   padding: 0 1rem;
 }
 
-/*footer {
+footer {
   grid-area: footer;
   color: white;
   background-color: slategray;
@@ -107,7 +107,7 @@ main {
   justify-content: center;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
