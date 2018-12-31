@@ -51,7 +51,7 @@ header {
   font-size: 1.2rem;
 }
 
-/*header ul {
+header ul {
   list-style: none;
   margin: 0 0 0 2rem;
   padding: 0;
@@ -59,7 +59,7 @@ header {
   flex-direction: row;
 }
 
-header ul li {
+/*header ul li {
   margin-right: 0.6rem;
 }
 
