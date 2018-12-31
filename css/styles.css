@@ -63,11 +63,11 @@ header ul li {
   margin-right: 0.6rem;
 }
 
-/*header ul li:last-child {
+header ul li:last-child {
   margin: 0;
 }
 
-aside {
+/*aside {
   grid-area: aside;
   background-color: gainsboro;
   border-right: 1px solid slategray;
