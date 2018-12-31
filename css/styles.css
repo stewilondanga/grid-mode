@@ -73,13 +73,13 @@ aside {
   border-right: 1px solid slategray;
 }
 
-/*aside ul {
+aside ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-aside ul li a {
+/*aside ul li a {
   display: flex;
   background-color: whitesmoke;
   align-items: center;
