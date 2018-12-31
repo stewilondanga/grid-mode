@@ -92,13 +92,13 @@ aside ul li a:hover {
   background-color: lightsteelblue;
 }
 
-/*main {
+main {
   grid-area: main;
   background-color: white;
   padding: 0 1rem;
 }
 
-footer {
+/*footer {
   grid-area: footer;
   color: white;
   background-color: slategray;
