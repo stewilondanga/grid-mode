@@ -87,12 +87,12 @@ aside ul li a {
   border-bottom: 1px solid slategray;
 }
 
-/*aside ul li a:hover {
+aside ul li a:hover {
   color: white;
   background-color: lightsteelblue;
 }
 
-main {
+/*main {
   grid-area: main;
   background-color: white;
   padding: 0 1rem;
