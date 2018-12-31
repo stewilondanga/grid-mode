@@ -59,11 +59,11 @@ header ul {
   flex-direction: row;
 }
 
-/*header ul li {
+header ul li {
   margin-right: 0.6rem;
 }
 
-header ul li:last-child {
+/*header ul li:last-child {
   margin: 0;
 }
 
