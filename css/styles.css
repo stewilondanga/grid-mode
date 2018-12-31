@@ -79,7 +79,7 @@ aside ul {
   padding: 0;
 }
 
-/*aside ul li a {
+aside ul li a {
   display: flex;
   background-color: whitesmoke;
   align-items: center;
@@ -87,7 +87,7 @@ aside ul {
   border-bottom: 1px solid slategray;
 }
 
-aside ul li a:hover {
+/*aside ul li a:hover {
   color: white;
   background-color: lightsteelblue;
 }
